@@ -29,12 +29,14 @@
 1. Tampilan program Python untuk mengimplementasikan enkripsi polialfabetik dengan kunci dan alfabet
 </p>
 
-![Gambar 1](screenshoot/1.png)
-![Gambar 2](screenshoot/2.png)
 
+![Gambar 2](screenshoot/2.png)
+![Gambar 1](screenshoot/1.png)
 <p>
 Seperti yang di tampilkan gambar di atas Merupakan gagasan baru dalam perkembangan kode kaisar untuk menggunakan kunci laian yang di sebut Polyalphabetic. Teknik ini cenderung menggunakan kunci berupa huruf dan tidak ada pengunaan huruf yang di ulang. Penggunaan tidak hanya dengan satu kunci tetapi bisa mengunakan lebih dari satu kunci.
 
+
+Bisa di coba di bawah ini
 </p>
 
 
